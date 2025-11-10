@@ -36,4 +36,4 @@ Master’s student in Data and Knowledge Engineering at OVGU. 3+ years in softwa
 LLM Engineering, Udemy. C or C++ and Java, IIT Mumbai.
 
 ## Contact
-Magdeburg, Germany • imonghose@gmail.com • LinkedIn: [imon-ghose-467a4722a](https://www.linkedin.com/in/imon-ghosh-467a4722a/) • GitHub: ImonGhosh
+Magdeburg, Germany • imonghose@gmail.com • LinkedIn: [imon-ghose-467a4722a](https://www.linkedin.com/in/imon-ghose-467a4722a/) • GitHub: ImonGhosh
