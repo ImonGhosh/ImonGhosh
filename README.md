@@ -9,14 +9,10 @@ Master’s student in Data and Knowledge Engineering at OVGU. 3+ years in softwa
 - Full stack android development for my official university app
 
 ## Selected projects
-- Fine-tuning Whisper for low-resource ASR  
-  PEFT pipeline with LoRA. Single-file CLI. Large WER reduction vs baseline in tests.
-- Multi-agent LLM plus RAG deal discovery and pricing
-  RSS ingestion, vector retrieval, ensemble scoring, Pushover alerts.
-- Llama 3.1 8B price forecasting with QLoRA  
-  20k samples. Adapters on HF. Deployed as a serverless API.
-- Vehicle image segmentation with U-Net  
-  Reproducible PyTorch pipeline. Best Dice 0.9838 on validation.
+- Fine-tuned Open AI's Whisper model for low-resource ASR  using 3 different PEFT techniques
+- Created a Multi-agent LLM plus RAG deal discovery and pricing platform
+- Fine-tuned Llama 3.1 8B for price forecasting with QLoRA
+- Vehicle image segmentation with U-Net
 
 ## Experience
 - Research Assistant, Leibniz Institute for Resilience Research  
@@ -24,11 +20,11 @@ Master’s student in Data and Knowledge Engineering at OVGU. 3+ years in softwa
 - Student Developer, Otto-von-Guericke University  
   Spring backend and Vue or Flutter enhancements. High availability ops. June 2025 to present.
 - Software Engineer, Nomura Research Institute Financial Technologies  
-  Java microservices, backend development and SQL for an Australian trade back-office system. Aug 2020 to Feb 2024.
+  Java microservices, backend development and SQL optimization for an Australian trade back-office system. Aug 2020 to Feb 2024.
 
 ## Skills
 - Languages: Python, R, SQL, Java, JavaScript, Dart
-- ML and AI: PyTorch, TensorFlow, Transformers, LangChain, Gradio
+- ML and AI: PyTorch, TensorFlow, Transformers, LangChain, Gradio, HuggingFace
 - Data: Oracle, PostgreSQL, Chroma, FAISS
 - Tools: Docker, Git, Jira, Hugging Face, Spring
 
@@ -40,4 +36,4 @@ Master’s student in Data and Knowledge Engineering at OVGU. 3+ years in softwa
 LLM Engineering, Udemy. C or C++ and Java, IIT Mumbai.
 
 ## Contact
-Magdeburg, Germany • imonghose@gmail.com • LinkedIn: imon-ghose-467a4722a • GitHub: ImonGhosh
+Magdeburg, Germany • imonghose@gmail.com • LinkedIn: [imon-ghose-467a4722a](https://www.linkedin.com/in/imon-ghosh-467a4722a/) • GitHub: ImonGhosh
