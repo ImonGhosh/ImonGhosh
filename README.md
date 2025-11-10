@@ -1,6 +1,6 @@
 # Hi, I’m Imon
 
-Master’s student in Data and Knowledge Engineering at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, RAG pipelines, and multi-agent workflows.
+Master’s student in Data Science at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, RAG pipelines, and multi-agent workflows.
 
 ## What I work on
 - AI agents, RAG, orchestration, multi-agent workflows
