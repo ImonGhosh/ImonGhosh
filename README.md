@@ -1,4 +1,5 @@
-# Hi, I’m Imon
+# Hi, I’m Imon, 
+### Find out all information about this repository and my career background using my personal career agent : https://huggingface.co/spaces/imonghose/my_career_agent
 
 Master’s student in Data Science at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, RAG pipelines, and multi-agent workflows.
 
