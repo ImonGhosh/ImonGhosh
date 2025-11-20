@@ -7,7 +7,7 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 - AI agents, RAG, orchestration, multi-agent workflows
 - LLM fine-tuning and evaluation, Whisper, Llama 3.1
 - Data visualization and statistical analysis using Python and R
-- Full stack android development for my official university app
+- Full stack android development for OVGU's official university app
 
 ## Selected projects
 - Fine-tuned Open AI's Whisper model for low-resource ASR  using 3 different PEFT techniques
