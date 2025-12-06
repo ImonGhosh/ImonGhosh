@@ -1,13 +1,13 @@
 # Hi, I’m Imon !
 ### Find out all information about this repository and my career background using my personal career agent : https://huggingface.co/spaces/imonghose/my_career_agent
 
-Master’s student in Data Science at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, RAG pipelines, and multi-agent workflows.
+Master’s student in Data Science at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, optimize RAG pipelines and orchestrate multi-agent workflows.
 
 ## What I work on
 - AI agents, RAG, orchestration, multi-agent workflows
 - LLM fine-tuning and evaluation, Whisper, Llama 3.1
 - Data visualization and statistical analysis using Python and R
-- Full stack android development for OVGU's official university app
+- Full stack development for OVGU's official university app
 
 ## Selected projects
 - Fine-tuned Open AI's Whisper model for low-resource ASR  using 3 different PEFT techniques
