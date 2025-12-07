@@ -30,8 +30,9 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 - Backend Frameworks: Fast API, Spring
 - UI Frameworks: Streamlit, Gradio, React, Next.js, Flutter
 - Database: Relational (Oracle DB, MySQL, PostgreSQL), Vector (Chroma, FAISS)
+- Data Analysis: NumPy, Pandas, Matplotlib, Plotly, ggplot2
 - Observability: Langsmith, Agents SDK
-- DevOps/ MLOps: Docker, Git, Jira, Hugging Face Spaces, Modal
+- Tools and DevOps: Docker, Git, JIRA, Modal, Hugging Face (ecosystem), Open AI API
 
 ## Education
 - M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
