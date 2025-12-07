@@ -3,15 +3,18 @@
 
 Master’s student in Data Science at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, optimize RAG pipelines and orchestrate multi-agent workflows.
 
-## What I work on
+## What I currently work on :
 - AI agents, RAG, orchestration, multi-agent workflows
-- LLM fine-tuning and evaluation, Whisper, Llama 3.1
+- LLM fine-tuning and evaluation
+- Full stack development (Spring, Vue, Flutter)
 - Data visualization and statistical analysis using Python and R
-- Full stack development for OVGU's official university app
 
-## Selected projects
+
+## Selected projects :
+- Created a Multi-agent, LLM and RAG based real-time deal discovery and pricing platform (https://github.com/ImonGhosh/ai-powered-multi-agent-deal-finder)
+- Created a Natural Language to SQL generic pipeline
 - Fine-tuned Open AI's Whisper model for low-resource ASR  using 3 different PEFT techniques
-- Created a Multi-agent LLM plus RAG deal discovery and pricing platform
+
 - Fine-tuned Llama 3.1 8B for price forecasting with QLoRA
 - Vehicle image segmentation with U-Net
 
