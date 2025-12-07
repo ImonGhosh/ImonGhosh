@@ -4,40 +4,42 @@
 Master’s student in Data Science at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, optimize RAG pipelines and orchestrate multi-agent workflows.
 
 ## What I currently work on :
-- AI agents, RAG, orchestration, multi-agent workflows
+- RAG, AI Agents, multi-agent workflows
 - LLM fine-tuning and evaluation
 - Full stack development (Spring, Vue, Flutter)
 - Data visualization and statistical analysis using Python and R
 
 
-## Selected projects :
-- Created a Multi-agent, LLM and RAG based real-time deal discovery and pricing platform (https://github.com/ImonGhosh/ai-powered-multi-agent-deal-finder)
-- Created a Natural Language to SQL generic pipeline
-- Fine-tuned Open AI's Whisper model for low-resource ASR  using 3 different PEFT techniques
+## Selected Projects :
+- Multi-agent, LLM and RAG based real-time deal discovery and pricing platform (https://github.com/ImonGhosh/ai-powered-multi-agent-deal-finder)
+- Natural Language to SQL pipeline (https://github.com/ImonGhosh/natural-language-to-sql-pipeline)
+- Fine-tuned Llama 3.1 8B for price forecasting with QLoRA (https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
+- Fine-tuned Open AI's Whisper model for low-resource ASR (https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language)
 
-- Fine-tuned Llama 3.1 8B for price forecasting with QLoRA
-- Vehicle image segmentation with U-Net
-
-## Experience
+## Work Experience :
 - Research Assistant, Leibniz Institute for Resilience Research  
   Python based signal processing of physiological data, data preprocessing and R Analytics using ggplot2. April 2025 to present.
-- Student Developer, Otto-von-Guericke University  
-  Spring backend and Vue or Flutter enhancements. High availability ops. June 2025 to present.
+- Student Developer, Otto-von-Guericke University
+  Development and maintenance of official OVGU university app (Tech stack - Spring, Vue, Flutter). June 2025 to present.
 - Software Engineer, Nomura Research Institute Financial Technologies  
-  Java microservices, backend development and SQL optimization for an Australian trade back-office system. Aug 2020 to Feb 2024.
+  Java microservices, backend development and SQL optimization for a multi-tenant trade back office system for Australian stock exchange. Aug 2020 to Feb 2024.
 
 ## Skills
-- Languages: Python, R, SQL, Java, JavaScript, Dart
-- ML and AI: PyTorch, TensorFlow, Transformers, LangChain, Gradio, HuggingFace
-- Data: Oracle, PostgreSQL, Chroma, FAISS
-- Tools: Docker, Git, Jira, Hugging Face, Spring
+- Languages: Python, R, SQL, Java, JavaScript, Typescript, Dart
+- AI Frameworks: PyTorch, TensorFlow, LangChain, LangGraph, Crew AI, Open AI Agents SDK
+- Backend Frameworks: Fast API, Spring
+- UI Frameworks: Streamlit, Gradio, React, Next.js, Flutter
+- Database: Relational (Oracle DB, MySQL, PostgreSQL), Vector (Chroma, FAISS)
+- Observability: Langsmith, Agents SDK
+- DevOps/ MLOps: Docker, Git, Jira, Hugging Face Spaces, Modal
 
 ## Education
 - M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
 - B.Tech. Information Technology, Techno India Saltlake. CGPA 8.35
 
 ## Certificates
-LLM Engineering, Udemy. C or C++ and Java, IIT Mumbai.
+LLM Engineering, Udemy. 
+C++, Java and Python, IIT Mumbai.
 
 ## Contact
 Magdeburg, Germany • imonghose@gmail.com • LinkedIn: [imon-ghose-467a4722a](https://www.linkedin.com/in/imon-ghose-467a4722a/) • GitHub: ImonGhosh
