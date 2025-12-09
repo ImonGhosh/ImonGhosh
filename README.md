@@ -13,6 +13,7 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 ## Selected Projects :
 - Multi-agent, LLM and RAG based real-time deal discovery and pricing platform (https://github.com/ImonGhosh/ai-powered-multi-agent-deal-finder)
 - Natural Language to SQL pipeline (https://github.com/ImonGhosh/natural-language-to-sql-pipeline)
+- Crew AI Software Engineering Team (https://github.com/ImonGhosh/crewai-software-engineering-team)
 - Fine-tuned Llama 3.1 8B for price forecasting with QLoRA (https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
 - Fine-tuned Open AI's Whisper model for low-resource ASR (https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language)
 
