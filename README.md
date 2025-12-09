@@ -38,9 +38,5 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 - M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
 - B.Tech. Information Technology, Techno India Saltlake. CGPA 8.35
 
-## Certificates
-LLM Engineering, Udemy. 
-C++, Java and Python, IIT Mumbai.
-
 ## Contact
 Magdeburg, Germany • imonghose@gmail.com • LinkedIn: [imon-ghose-467a4722a](https://www.linkedin.com/in/imon-ghose-467a4722a/) • GitHub: ImonGhosh
