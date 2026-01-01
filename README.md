@@ -6,7 +6,7 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 ## What I currently work on :
 - RAG, AI Agents, multi-agent workflows
 - LLM fine-tuning and evaluation
-- Full stack development (Spring, Vue, Flutter)
+- Full stack development (Fast API, Spring, React, Vue, Flutter)
 - Data visualization and statistical analysis using Python and R
 
 
