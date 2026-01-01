@@ -19,11 +19,13 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 - LangGraph Personal Coworker (https://github.com/ImonGhosh/langgraph-personal-co-worker)
 - Autogen Agent Creator (https://github.com/ImonGhosh/autogen-agent-creator)
 - Fine-tuned Llama 3.1 8B for price forecasting with QLoRA (https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
+  
 
 ## Papers :
-- Fine-tuned Whisper For Low Resource Language
-- Repository - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language
-- Paper link - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language/blob/main/paper/Research_Paper.pdf
+### Fine-tuned Whisper For Low Resource Language
+  - Repository - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language
+  - Paper link - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language/blob/main/paper/Research_Paper.pdf
+
 
 ## Work Experience :
 - Research Assistant, Leibniz Institute for Resilience Research  
