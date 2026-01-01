@@ -17,6 +17,7 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 - Natural Language to SQL pipeline (https://github.com/ImonGhosh/natural-language-to-sql-pipeline)
 - Crew AI Software Engineering Team (https://github.com/ImonGhosh/crewai-software-engineering-team)
 - LangGraph Personal Coworker (https://github.com/ImonGhosh/langgraph-personal-co-worker)
+- Autogen Agent Creator (https://github.com/ImonGhosh/autogen-agent-creator)
 - Fine-tuned Llama 3.1 8B for price forecasting with QLoRA (https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
 
 ## Papers :
