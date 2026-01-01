@@ -28,12 +28,9 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 
 
 ## Work Experience :
-- Research Assistant, Leibniz Institute for Resilience Research  
-  Python based signal processing of physiological data, data preprocessing and R Analytics using ggplot2. April 2025 to present.
-- Student Developer, Otto-von-Guericke University
-  Development and maintenance of official OVGU university app (Tech stack - Spring, Vue, Flutter). June 2025 to present.
-- Software Engineer, Nomura Research Institute Financial Technologies  
-  Java microservices, backend development and SQL optimization for a multi-tenant trade back office system for Australian stock exchange. Aug 2020 to Feb 2024.
+- Research Assistant, Leibniz Institute for Resilience Research (April 2025 to present)
+- Student Developer, Otto-von-Guericke University (June 2025 to present)
+- Software Engineer, Nomura Research Institute Financial Technologies (Aug 2020 to Feb 2024)
 
 ## Skills
 - Languages: Python, R, SQL, Java, JavaScript, Typescript, Dart
