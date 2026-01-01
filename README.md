@@ -21,7 +21,9 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 - Fine-tuned Llama 3.1 8B for price forecasting with QLoRA (https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
 
 ## Papers :
-- Fine-tuned Open AI's Whisper model for low-resource ASR (https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language)
+- Fine-tuned Whisper For Low Resource Language
+- Repository - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language
+- Paper link - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language/blob/main/paper/Research_Paper.pdf
 
 ## Work Experience :
 - Research Assistant, Leibniz Institute for Resilience Research  
@@ -34,12 +36,13 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 ## Skills
 - Languages: Python, R, SQL, Java, JavaScript, Typescript, Dart
 - AI Frameworks: PyTorch, TensorFlow, LangChain, LangGraph, Crew AI, Open AI Agents SDK
+- Automation tools: n8n
 - Backend Frameworks: Fast API, Spring
 - UI Frameworks: Streamlit, Gradio, React, Next.js, Flutter
-- Database: Relational (Oracle DB, MySQL, PostgreSQL), Vector (Chroma, FAISS)
+- Database: Relational (Oracle DB, MySQL, PostgreSQL), Vector (Chroma, Pinecone, FAISS)
 - Data Analysis: NumPy, Pandas, Matplotlib, Plotly, ggplot2
 - Observability: Langsmith, Agents SDK
-- Tools and DevOps: Docker, Git, JIRA, Modal, Hugging Face (ecosystem), Open AI API
+- Tools and DevOps: Docker, Git, JIRA, Modal, Hugging Face, Open AI API
 
 ## Education
 - M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
