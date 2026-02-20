@@ -16,10 +16,10 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 - [Multi-agent, LLM and RAG based real-time deal discovery and pricing platform](https://github.com/ImonGhosh/ai-powered-multi-agent-deal-finder)
 - [n8n end-to-end Job Search Automation Pipeline](https://github.com/ImonGhosh/n8n-job-search-automation/tree/main)
 - [Natural Language to SQL pipeline](https://github.com/ImonGhosh/natural-language-to-sql-pipeline)
+- [Fine-tuned Llama 3.1 8B for price forecasting with QLoRA](https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
 - [Crew AI Software Engineering Team](https://github.com/ImonGhosh/crewai-software-engineering-team)
 - [LangGraph Personal Coworker](https://github.com/ImonGhosh/langgraph-personal-co-worker)
 - [Autogen Agent Creator](https://github.com/ImonGhosh/autogen-agent-creator)
-- [Fine-tuned Llama 3.1 8B for price forecasting with QLoRA](https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
 
   
 
