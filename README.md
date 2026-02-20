@@ -11,6 +11,7 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 
 
 ## Selected Projects :
+- [SaaS Multimodal RAG Application - LIVE](https://github.com/ImonGhosh/saas-multimodal-rag-app)
 - [Automated Multi Agent Trading Simulator leveraging MCP](https://github.com/ImonGhosh/automated-multi-agent-trading-simulator)
 - [Multi-agent, LLM and RAG based real-time deal discovery and pricing platform](https://github.com/ImonGhosh/ai-powered-multi-agent-deal-finder)
 - [n8n end-to-end Job Search Automation Pipeline](https://github.com/ImonGhosh/n8n-job-search-automation/tree/main)
