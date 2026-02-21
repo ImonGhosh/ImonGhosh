@@ -1,11 +1,10 @@
 # Hi, I’m Imon !
 ### Find out all information about this repository and my career background using my personal career agent : https://huggingface.co/spaces/imonghose/my_career_agent
 
-Master’s student in Data Science at OVGU. 3+ years in software development and database technologies. I currently build practical AI systems, optimize RAG pipelines and orchestrate multi-agent workflows.
+Master’s student in Data Science at OVGU. 3+ years of professional experience in software development and database technologies. I currently build practical AI systems, optimize RAG pipelines and orchestrate multi-agent workflows.
 
 ## What I currently work on :
-- RAG, AI Agents, multi-agent workflows
-- LLM fine-tuning and evaluation
+- AI Research specializing on LLM, RAG and AI Agents
 - Full stack development (Fast API, Spring, React, Vue, Flutter)
 - Data visualization and statistical analysis using Python and R
 
