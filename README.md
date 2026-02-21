@@ -34,18 +34,18 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 - Software Engineer, Nomura Research Institute Financial Technologies (Aug 2020 to Feb 2024)
 
 ## Skills
-- Languages: Python, R, SQL, Java, Kotlin, JavaScript, TypeScript, Dart
-- Deep Learning Frameworks: PyTorch, TensorFlow
-- LLM Orchestration: LangChain, LangGraph, Crew AI, Autogen, PydanticAI, Agents SDK
-- LLM Tools: MCP, OpenAI API, Hugging Face
-- Automation Tools: n8n
-- Backend Frameworks: Fast API, Spring
-- UI Frameworks: React, Next.js, Flutter, Streamlit, Gradio
-- Databases: Relational – (Oracle DB, MySQL, PostgreSQL) , Vector – (pgvector, Chroma, Qdrant)
-- Data Analysis: NumPy, Pandas, Matplotlib, Plotly, ggplot2
-- Observability: Langfuse, LangSmith, AWS CloudWatch
-- Project Tools : Jira, Notion, ClickUp, Confluence
-- Cloud & DevOps: Git, Modal, Vercel, Docker, AWS
+- **Languages:** Python, R, SQL, Java, Kotlin, JavaScript, TypeScript, Dart
+- **Deep Learning Frameworks:** PyTorch, TensorFlow
+- **LLM Orchestration:** LangChain, LangGraph, Crew AI, Autogen, PydanticAI, Agents SDK
+- **LLM Tools:** MCP, OpenAI API, Hugging Face
+- **Automation Tools:** n8n
+- **Backend Frameworks:** FastAPI, Spring
+- **UI Frameworks:** React, Next.js, Flutter, Streamlit, Gradio
+- **Databases:** Relational – (Oracle DB, MySQL, PostgreSQL), Vector – (pgvector, Chroma, Qdrant)
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Plotly, ggplot2
+- **Observability:** Langfuse, LangSmith, AWS CloudWatch
+- **Project Tools:** Jira, Notion, ClickUp, Confluence
+- **Cloud & DevOps:** Git, Modal, Vercel, Docker, AWS
 
 ## Education
 - M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
