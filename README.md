@@ -30,20 +30,23 @@ Master’s student in Data Science at OVGU. 3+ years in software development and
 
 
 ## Work Experience :
-- Research Assistant, Leibniz Institute for Resilience Research (April 2025 to present)
-- Student Developer, Otto-von-Guericke University (June 2025 to present)
+- Student Software Developer, Otto-von-Guericke University (June 2025 to present)
+- Research Assistant, Leibniz Institute for Resilience Research (April 2025 to Dec 2025)
 - Software Engineer, Nomura Research Institute Financial Technologies (Aug 2020 to Feb 2024)
 
 ## Skills
-- Languages: Python, R, SQL, Java, JavaScript, Typescript, Dart
-- AI Frameworks: PyTorch, TensorFlow, LangChain, LangGraph, Crew AI, Open AI Agents SDK
-- Automation tools: n8n
+- Languages: Python, R, SQL, Java, Kotlin, JavaScript, TypeScript, Dart
+- Deep Learning Frameworks: PyTorch, TensorFlow
+- LLM Orchestration: LangChain, LangGraph, Crew AI, Autogen, PydanticAI, Agents SDK
+- LLM Tools: MCP, OpenAI API, Hugging Face
+- Automation Tools: n8n
 - Backend Frameworks: Fast API, Spring
-- UI Frameworks: Streamlit, Gradio, React, Next.js, Flutter
-- Database: Relational (Oracle DB, MySQL, PostgreSQL), Vector (Chroma, Pinecone, FAISS)
+- UI Frameworks: React, Next.js, Flutter, Streamlit, Gradio
+- Databases: Relational – (Oracle DB, MySQL, PostgreSQL) , Vector – (pgvector, Chroma, Qdrant)
 - Data Analysis: NumPy, Pandas, Matplotlib, Plotly, ggplot2
-- Observability: Langsmith, Agents SDK
-- Tools and DevOps: Docker, Git, JIRA, Modal, Hugging Face, Open AI API
+- Observability: Langfuse, LangSmith, AWS CloudWatch
+- Project Tools : Jira, Notion, ClickUp, Confluence
+- Cloud & DevOps: Git, Modal, Vercel, Docker, AWS
 
 ## Education
 - M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
