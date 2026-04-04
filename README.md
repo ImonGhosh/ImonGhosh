@@ -5,7 +5,8 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 
 ## What I currently work on :
 - AI Research specializing on LLM, RAG and AI Agents
-- Full stack development (Fast API, Spring, React, Vue, Flutter)
+- AWS Platform Engineering
+- Full stack development (Fast API, Spring, React/Next.js, Vue, Flutter)
 - Data visualization and statistical analysis using Python and R
 
 
