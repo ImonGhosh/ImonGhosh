@@ -16,8 +16,8 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 - [Automated Multi Agent Trading Simulator leveraging MCP](https://github.com/ImonGhosh/automated-multi-agent-trading-simulator)
 - [LLM and RAG based real-time deal discovery and pricing platform](https://github.com/ImonGhosh/ai-powered-multi-agent-deal-finder)
 - [n8n end-to-end Job Search Automation Pipeline](https://github.com/ImonGhosh/n8n-job-search-automation/tree/main)
-- [Natural Language to SQL pipeline](https://github.com/ImonGhosh/natural-language-to-sql-pipeline)
 - [Fine-tuned Llama 3.1 8B for price forecasting with QLoRA](https://github.com/ImonGhosh/fine-tuned-llama-product-pricer)
+- [Natural Language to SQL pipeline](https://github.com/ImonGhosh/natural-language-to-sql-pipeline)
 - [Crew AI Software Engineering Team](https://github.com/ImonGhosh/crewai-software-engineering-team)
 - [LangGraph Personal Coworker](https://github.com/ImonGhosh/langgraph-personal-co-worker)
 - [Autogen Agent Creator](https://github.com/ImonGhosh/autogen-agent-creator)
@@ -39,15 +39,15 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 - **Languages:** Python, R, SQL, Java, Kotlin, JavaScript, TypeScript, Dart
 - **Deep Learning Frameworks:** PyTorch, TensorFlow
 - **LLM Orchestration:** LangChain, LangGraph, Crew AI, Autogen, PydanticAI, Agents SDK
-- **LLM Tools:** MCP, OpenAI API, Hugging Face
+- **LLM Tools & Integration:** MCP, A2A, OpenAI API, Hugging Face
 - **Automation Tools:** n8n
 - **Backend Frameworks:** FastAPI, Spring
 - **UI Frameworks:** React, Next.js, Flutter, Streamlit, Gradio
 - **Databases:** Relational – (Oracle DB, MySQL, PostgreSQL), Vector – (pgvector, Chroma, Qdrant)
 - **Data Analysis:** NumPy, Pandas, Matplotlib, Plotly, ggplot2
+- **Caching & Queuing Services** : Redis, Amazon SQS, ActiveMQ
 - **Observability:** Langfuse, LangSmith, AWS CloudWatch
-- **Project Tools:** Jira, Notion, ClickUp, Confluence
-- **Cloud & DevOps:** Git, Modal, Vercel, Docker, AWS
+- **Cloud & DevOps:** Git, Modal, Vercel, Docker, AWS, GCP, Terraform, Github Actions, Jenkins
 
 ## Education
 - M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
