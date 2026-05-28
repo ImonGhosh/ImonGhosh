@@ -31,7 +31,7 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
     
 ### Decentralized SLM Swarm Reasoning for Constrained Planning Tasks
   - Repository - https://github.com/ImonGhosh/Swarm-Planner-Agent
-  - Paper link - https://github.com/ImonGhosh/Swarm-Planner-Agent/blob/main/decentralized_slm_swarm_reasoning_for_constrained_planning.pdf
+  - Paper link - https://github.com/ImonGhosh/Swarm-Planner-Agent/blob/main/decentralized_slm_swarm_planning.pdf
 
 ## Work Experience :
 - Student Software Developer, Otto-von-Guericke University (June 2025 to present)
