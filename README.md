@@ -5,7 +5,6 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 
 ## What I currently work on :
 - AI Research specializing on LLM, RAG and AI Agents
-- AWS Platform Engineering
 - Full stack development (Fast API, Spring, React/Next.js, Vue, Flutter)
 - Data visualization and statistical analysis using Python and R
 
@@ -135,7 +134,7 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Education
-- M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.5
+- M.Sc. Data and Knowledge Engineering, OVGU. GPA 1.4
 - B.Tech. Information Technology, Techno India Saltlake. CGPA 8.35
 
 ## Contact
