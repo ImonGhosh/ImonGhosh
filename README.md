@@ -34,7 +34,8 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 - Student Software Developer, Otto-von-Guericke University (June 2025 to present)
 - Research Assistant, Leibniz Institute for Resilience Research (April 2025 to Dec 2025)
 - Software Engineer, Nomura Research Institute Financial Technologies (Aug 2020 to Feb 2024)
-
+  
+<!--
 ## Skills
 - **Languages:** Python, R, SQL, Java, Kotlin, JavaScript, TypeScript, Dart
 - **Deep Learning Frameworks:** PyTorch, TensorFlow
@@ -48,7 +49,7 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 - **Caching & Queuing Services** : Redis, Amazon SQS, ActiveMQ
 - **Observability:** Langfuse, LangSmith, AWS CloudWatch
 - **Cloud & DevOps:** Git, Modal, Vercel, Docker, AWS, GCP, Terraform, Github Actions, Jenkins
-
+-->
 
 ## 🛠️ Tech Stack
 
