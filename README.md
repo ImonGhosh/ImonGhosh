@@ -28,7 +28,10 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
 ### Fine-tuned Whisper For Low Resource Language
   - Repository - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language
   - Paper link - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language/blob/main/paper/Research_Paper.pdf
-
+  - 
+### Decentralized SLM Swarm Reasoning for Constrained Planning Tasks
+  - Repository - https://github.com/ImonGhosh/Swarm-Planner-Agent
+  - Paper link - https://github.com/ImonGhosh/Swarm-Planner-Agent/blob/main/decentralized_slm_swarm_reasoning_for_constrained_planning.pdf
 
 ## Work Experience :
 - Student Software Developer, Otto-von-Guericke University (June 2025 to present)
