@@ -33,9 +33,11 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
   - Paper link - https://github.com/ImonGhosh/Swarm-Planner-Agent/blob/main/decentralized_slm_swarm_planning.pdf
 
 ## Work Experience :
-- Student Software Developer, Otto-von-Guericke University (June 2025 to present)
-- Research Assistant, Leibniz Institute for Resilience Research (April 2025 to Dec 2025)
-- Software Engineer, Nomura Research Institute Financial Technologies (Aug 2020 to Feb 2024)
+| Role | Organization | Duration |
+|---|---|---|
+| 👩‍💻 **Student Software Developer** | Otto von Guericke University | June 2025 – Present |
+| 🔬 **Research Assistant** | Leibniz Institute for Resilience Research | April 2025 – Dec 2025 |
+| 💻 **Software Engineer** | Nomura Research Institute Financial Technologies | Aug 2020 – Feb 2024 |
   
 <!--
 ## Skills
