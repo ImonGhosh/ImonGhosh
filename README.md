@@ -25,7 +25,7 @@ Master’s student in Data Science at OVGU. 3+ years of professional experience 
   
 
 ## Academic Projects :
-### Fine-tuned Whisper For Low Resource Language
+### Fine-tuned Open AI Whisper For Low Resource Language
   - Repository - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language
   - Paper link - https://github.com/ImonGhosh/whisper-fine-tune-low-resource-language/blob/main/paper/Research_Paper.pdf
     
